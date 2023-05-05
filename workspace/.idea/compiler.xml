@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MayWeek3" />
+        <module name="MayWeek4" />
+        <module name="JulyWeek1" />
+        <module name="AprilWeek5" />
+        <module name="MayWeek11" />
+        <module name="AprilWeek4" />
+        <module name="AprilWeek3" />
+        <module name="MayWeek5" />
+        <module name="AprilWeek2" />
+        <module name="AprilWeek1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
